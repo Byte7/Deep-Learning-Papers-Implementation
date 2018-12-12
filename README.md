@@ -34,8 +34,8 @@ Implementing popular DL papers
 
 #### Object detection
 
-- [ ] RCNN [`paper`](https://arxiv.org/abs/1311.2524)
-- [ ] Fast-RCNN [`paper`](https://arxiv.org/abs/1504.08083)
+- [X] RCNN [`paper`](https://arxiv.org/abs/1311.2524)
+- [X] Fast-RCNN [`paper`](https://arxiv.org/abs/1504.08083)
 - [ ] Faster-RCNN [`paper`](https://arxiv.org/abs/1506.01497)
 - [ ] SSD [`paper`](https://arxiv.org/abs/1512.02325)
 - [ ] YOLO [`paper`](https://arxiv.org/abs/1506.02640)
