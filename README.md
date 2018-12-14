@@ -4,7 +4,7 @@ Implementing popular DL papers
 
 #### Architectures
 
-- [ ] AlexNet [`paper`](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
+- [X] AlexNet [`paper`](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
 - [ ] ZFNet [`paper`](https://arxiv.org/abs/1311.2901)
 - [ ] VGG16 [`paper1`](https://arxiv.org/abs/1505.06798) [`paper2`](https://arxiv.org/pdf/1409.1556.pdf)
 - [ ] ResNet [`paper`](https://arxiv.org/abs/1704.06904)
@@ -25,8 +25,8 @@ Implementing popular DL papers
 
 #### Generative adversarial networks
 
-- [ ] GAN [`paper`](https://arxiv.org/abs/1406.2661)
-- [ ] DCGAN [`paper`](https://arxiv.org/abs/1511.06434)
+- [X] GAN [`paper`](https://arxiv.org/abs/1406.2661)
+- [X] DCGAN [`paper`](https://arxiv.org/abs/1511.06434)
 - [ ] WGAN [`paper`](https://arxiv.org/abs/1701.07875)
 - [ ] Pix2Pix [`paper`](https://arxiv.org/abs/1611.07004)
 - [ ] CycleGAN [`paper`](https://arxiv.org/abs/1703.10593)
@@ -34,8 +34,8 @@ Implementing popular DL papers
 
 #### Object detection
 
-- [X] RCNN [`paper`](https://arxiv.org/abs/1311.2524)
-- [X] Fast-RCNN [`paper`](https://arxiv.org/abs/1504.08083)
+- [ ] RCNN [`paper`](https://arxiv.org/abs/1311.2524)
+- [ ] Fast-RCNN [`paper`](https://arxiv.org/abs/1504.08083)
 - [ ] Faster-RCNN [`paper`](https://arxiv.org/abs/1506.01497)
 - [ ] SSD [`paper`](https://arxiv.org/abs/1512.02325)
 - [ ] YOLO [`paper`](https://arxiv.org/abs/1506.02640)
