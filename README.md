@@ -5,7 +5,7 @@ Implementing popular DL papers
 #### Architectures
 
 - [X] AlexNet [`paper`](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
-- [ ] ZFNet [`paper`](https://arxiv.org/abs/1311.2901)
+- [X] ZFNet [`paper`](https://arxiv.org/abs/1311.2901)
 - [ ] VGG16 [`paper1`](https://arxiv.org/abs/1505.06798) [`paper2`](https://arxiv.org/pdf/1409.1556.pdf)
 - [ ] ResNet [`paper`](https://arxiv.org/abs/1704.06904)
 - [ ] GoogLeNet [`paper`](https://arxiv.org/abs/1409.4842)
